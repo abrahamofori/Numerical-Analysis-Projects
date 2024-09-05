@@ -75,6 +75,8 @@ MATLAB (for executing the provided scripts):
 
 Usage:
 
+All the remaining codes are contained in the main pdf file
+
 The MATLAB scripts provided in this repository perform the following tasks:
 
 Load and discretize the spatial domain.
